@@ -1,3 +1,6 @@
 Flask==0.12.1
 Algorithmia
 twitterscraper
+Jinja2>=2.7
+flask-flatpages
+frozen-flask
